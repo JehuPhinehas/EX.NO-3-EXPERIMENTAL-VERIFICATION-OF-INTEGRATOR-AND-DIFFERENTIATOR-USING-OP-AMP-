@@ -36,19 +36,18 @@ T ≥ Rf Cf
 The integrator is most commonly used in analog computers and ADC and signal-wave shaping circuits.
 CIRCUIT DIAGRAM
 ## CIRCUIT DIAGRAM
-![WhatsApp Image 2025-11-27 at 6 26 06 PM](https://github.com/user-attachments/assets/4eb3bf8c-8402-44cf-893a-0b0da47100eb)
+<img width="1600" height="1141" alt="image" src="https://github.com/user-attachments/assets/f7087efc-f933-4663-99c9-e73a50e543d9" />
 
 
 
 ## MODEL GRAPH
-<img width="556" height="380" alt="image" src="https://github.com/user-attachments/assets/caa7461c-69f7-4636-8e31-eea6db6efbb5" />
-
-<img width="847" height="553" alt="image" src="https://github.com/user-attachments/assets/d8d3e586-8e58-47ba-baae-2794c7955d51" />
+<img width="807" height="1279" alt="image" src="https://github.com/user-attachments/assets/ab65b181-f288-475e-ab12-a68420c5575b" />
 
 ---
 
 ## DESIGN
-![WhatsApp Image 2025-11-27 at 6 36 39 PM](https://github.com/user-attachments/assets/033b0b71-6483-45c1-bf7a-11561aea031b)
+<img width="1125" height="540" alt="image" src="https://github.com/user-attachments/assets/f1ae3e5e-9195-4cfb-9f46-85b71179ba47" />
+
 
 To obtain the output of an Integrator circuit with component values R1Cf = 0.1ms , Rf = 10 R1 and Cf = 0.01 µF and also if 1 V peak square wave at 1000Hz is applied as input.
 We know the frequency at which the gain is 0 dB, fb = 1 / (2π R1 Cf) Therefore fb = 	 Since fb = 10 fa , and also the gain limiting frequency fa = 1 / (2π Rf Cf)
@@ -64,14 +63,15 @@ We get , R1 =	and hence Rf =
 
 ## TABULATION
 
-![WhatsApp Image 2025-11-27 at 6 30 51 PM](https://github.com/user-attachments/assets/fb932eb4-6652-4ba2-b55f-d336c397a40a)
+<img width="1600" height="1228" alt="image" src="https://github.com/user-attachments/assets/0a490287-c2e2-446d-8469-e11ce9693bb0" />
+
 
 
 ---
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
-![WhatsApp Image 2025-11-27 at 6 33 43 PM (1)](https://github.com/user-attachments/assets/08ca0f8a-8668-428b-a74f-677c8c891d5c)
+<img width="1065" height="1280" alt="image" src="https://github.com/user-attachments/assets/6a1dcfaa-1472-4cdf-90d2-5498670e6e59" />
 
 
 ---
@@ -112,25 +112,27 @@ The differentiator is most commonly used in wave shaping circuits to detect high
 
 ## CIRCUIT DIAGRAM
 
-![WhatsApp Image 2025-11-27 at 6 26 26 PM](https://github.com/user-attachments/assets/a81f4511-926e-4f30-a28b-58552ce76540)
+<img width="1600" height="809" alt="image" src="https://github.com/user-attachments/assets/fd82ad15-df0a-45a2-a919-5ac2fb384205" />
 
 ## MODEL GRAPH
 
 (i)	 SINE WAVE INPUT
 
-<img width="687" height="479" alt="image" src="https://github.com/user-attachments/assets/c89226c0-c2bb-4544-b355-27fc0d923f1a" />
----
+<img width="1600" height="1103" alt="image" src="https://github.com/user-attachments/assets/c1d7c8be-e12e-4016-afca-9b223aea1054" />
+
 
 AND
 
 (ii) SQUARE WAVE INPUT
 
-<img width="758" height="447" alt="image" src="https://github.com/user-attachments/assets/cda33b00-c40c-490f-a9bd-e06107119c25" />
+<img width="1600" height="1081" alt="image" src="https://github.com/user-attachments/assets/38dba052-46a0-4a7c-b1ac-7b622d0fa997" />
+
 
 
 ---
 
 ## DESIGN
+<img width="1600" height="733" alt="image" src="https://github.com/user-attachments/assets/06fec87e-1f59-45d3-89f8-b02d432650f3" />
 
 Design an op-amp differentiator that will differentiate an input signal with fmax = 100HZ Select fa = fmax = 100 HZ = 1 / 2πRFC1
 Let C1 = 0.1μF
@@ -151,16 +153,20 @@ We get, CF = (1.59*103*10-7) / 15.9*103
 
  ## TABULATION
 
-![WhatsApp Image 2025-11-27 at 6 30 13 PM](https://github.com/user-attachments/assets/1b89bad4-d3af-4d1c-8a90-1442447dd26e)
+<img width="1600" height="953" alt="image" src="https://github.com/user-attachments/assets/81b815a2-6c49-47e0-bf0a-17d4a18ed2c6" />
+<img width="1600" height="679" alt="image" src="https://github.com/user-attachments/assets/4345f228-bf60-4505-9c1b-8d2bb88c9a33" />
+
 
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
-![WhatsApp Image 2025-11-27 at 6 33 59 PM (1)](https://github.com/user-attachments/assets/83d7411d-ccf7-4159-80cb-3bf20ee5e92c)
+<img width="984" height="1279" alt="image" src="https://github.com/user-attachments/assets/8c1e2ddf-7162-4fdc-91c4-443947714843" />
 
 ---
 
 RESULT:
+<img width="1600" height="696" alt="image" src="https://github.com/user-attachments/assets/348babbb-e46a-4c68-ba93-73a9d2ab2000" />
+
 Thus an Integrator and Differentiator using op-amp are designed and their performance was successfully tested using op-amp IC 741.
 ---
 
