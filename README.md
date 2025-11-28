@@ -71,7 +71,7 @@ We get , R1 =	and hence Rf =
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
-<img width="1065" height="1280" alt="image" src="https://github.com/user-attachments/assets/6a1dcfaa-1472-4cdf-90d2-5498670e6e59" />
+<img width="1045" height="1279" alt="image" src="https://github.com/user-attachments/assets/c75d3060-9935-435c-a853-b32d670c3f04" />
 
 
 ---
@@ -160,7 +160,8 @@ We get, CF = (1.59*103*10-7) / 15.9*103
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
-<img width="984" height="1279" alt="image" src="https://github.com/user-attachments/assets/8c1e2ddf-7162-4fdc-91c4-443947714843" />
+<img width="1303" height="1600" alt="image" src="https://github.com/user-attachments/assets/9fc9581c-7abd-4605-94cc-80ed7d6fc33c" />
+
 
 ---
 
